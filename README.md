@@ -28,7 +28,7 @@
 <td colspan="4">Sistema desenvolvido na plataforma WORDPRESS + ELEMENTOR PRO para aluguel de andaimes, tendo seu principal objetivo aluguel de andaimes para empresas, shoppings entre outros.</td>
 </tr>
 <tr>
-<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/179287282-8bfb4d59-a68f-4e98-ae72-9f9aa05762a5.png" alt="" /></td>
+<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/179563611-3f4d1a77-71a9-421e-9224-7d1dfdbc4a93.png" alt="" /></td>
 </tr>
 </tbody>
 </table>
